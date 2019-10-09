@@ -1,0 +1,16 @@
+h1 {
+    color: #fc766aff#daa520;
+    }
+    body {
+        background-color:#0047ab
+    }
+    h1 {
+        border-style: double
+        
+    }
+    h1 {
+        border-color: #daa520
+    }
+    .fancybullets {
+        list-style: square;
+    }

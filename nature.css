@@ -1,0 +1,9 @@
+:root{
+--mbgc:#d45b12;
+-webkit-text-fill-color: #5f5426;
+color: #f3bc2e
+}
+
+h1{
+    background-color: var(--mbgc);
+}

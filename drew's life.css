@@ -1,0 +1,38 @@
+li{
+    color: chartreuse;
+    background-color: black;
+    border-color: chartreuse;
+    border-style: double;
+    border-width: 3px, 4px;
+    list-style-type: none;
+    display: grid;
+    width: 9.5vh;
+    margin:-5px;
+}
+h1{color: white;
+    background-color: darkcyan;
+    border-style: solid;
+    border-color: cyan;
+}
+h2{color: #8d8d99;
+    background-color: #87cd2a;
+    border-style: outset;
+    border-color: #8b07bc;
+    width: 9.5vh;
+}
+
+ .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+ }
+body{ background-color: darkmagenta;
+
+}
+p{
+    font-family: cursive;
+    font-size: 25.5px;
+    color: #44ce95
+}
+img{
+    caption-side: unset;
+}

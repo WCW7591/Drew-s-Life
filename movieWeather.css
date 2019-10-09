@@ -1,0 +1,36 @@
+li{
+    color: aquamarine;
+    background-color: darkblue;
+    border-color: gray;
+    border-style: solid;
+    border-width: 3px, 10px;
+    list-style-type: none;
+    display: inline-block;
+    padding:10px;
+    margin:-5px;
+}
+h1{color: blueviolet;
+    background-color: black;
+    border-style: dashed;
+    border-color: hotpink;
+}
+h2{color: #d4d4d4;
+    background-color: darkgreen;
+    border-style: outset;
+    border-color: antiquewhite;
+    width: 9.5vh;
+}
+
+.forecast {
+    width: 10vh;
+    height: 10vh;
+    padding: 2em;
+    background-color: lightblue;
+    margin: 2em;
+    border-style:ridge;
+ }
+
+ .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+ }
